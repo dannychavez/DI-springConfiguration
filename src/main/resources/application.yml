@@ -1,0 +1,14 @@
+dc2:
+  jms:
+    username: dannyjms
+    password: danny
+    dburl: mklmkoi
+
+
+---
+spring:
+  profiles: de
+
+dc2:
+  jms:
+    username: Jms user name**german
